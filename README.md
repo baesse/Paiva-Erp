@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# Paiva-Erp
+Paiva Erp
+>>>>>>> 2546e1e2a1580890d676f40b739a40a64ef8c806
